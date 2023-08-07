@@ -4,3 +4,5 @@ Edad 23 años
 Vive en Mexico
 
 Hoy hablamos de su historia...
+
+Va a estudiar ciberseguridad
