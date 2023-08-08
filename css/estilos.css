@@ -42,3 +42,11 @@ body
 {
     padding: 1em;
 }
+
+footer {
+    width: 70%;
+    padding: 0;
+    text-align:left;
+    border: 6px solid #DDD;
+    margin: 0 auto;
+}
